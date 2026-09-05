@@ -1,4 +1,4 @@
-# Papermerge DMS - Document Management for Digital Archives
+# Papermerge - Document Management for Digital Archives
 
 After **9 years** of open-source development, Papermerge is now available in two forms:
 
