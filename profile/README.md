@@ -1,4 +1,4 @@
-# Papermerge DMS - Document Management for Compliance
+# Papermerge DMS - Document Management for Digital Archives
 
 After **9 years** of open-source development, Papermerge is now available in two forms:
 
@@ -45,10 +45,10 @@ The open-source version is stable and available forever. You can:
 
 ---
 
-## For Compliance Teams
+## Full GoBD Compliance
 
 If you need:
-- ✅ GoBD compliance certification
+- ✅ GoBD compliance
 - ✅ Immutability & audit trails built-in
 - ✅ Professional support & SLA
 - ✅ Zero self-hosting management
