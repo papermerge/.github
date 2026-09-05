@@ -16,7 +16,7 @@ After **9 years** of open-source development, Papermerge is now available in two
 - **Status:** Active development & professional support
 - **Website:** [papermerge.com](https://papermerge.com)
 - **Documentation:** [docs.papermerge.com](https://docs.papermerge.com)
-- **Try it:** [Free trial (no credit card needed)](https://papermerge.com/)
+- **Try it:** [Free trial (no credit card needed)](https://papermerge.com)
 
 ---
 
@@ -60,9 +60,6 @@ If you need:
 ## Get Started
 
 - **Self-hosting?** Read the [OSS docs](https://docs.papermerge.io)
-- **Want managed compliance?** [Try Cloud free](https://cloud.papermerge.io)
+- **Want managed compliance?** [Try Cloud free](https://papermerge.com)
 - **Questions?** Open an issue or contact [eugen@papermerge.com](mailto:eugen@papermerge.com)
-
----
-
-**Made with ❤️ in Berlin, Germany**
+  
