@@ -15,7 +15,7 @@ Papermerge is available in two forms:
 - **Status:** Active development & professional support
 - **Website:** [papermerge.com](https://papermerge.com)
 - **Documentation:** [docs.papermerge.com](https://docs.papermerge.com)
-- **Try it:** [Free trial (no credit card needed)](https://papermerge.com)
+- **Try it:** [Free trial](https://papermerge.com)
 
 ---
 
