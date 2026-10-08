@@ -5,7 +5,6 @@ Papermerge is available in two forms:
 ## 🔧 Papermerge OSS (Open Source)
 
 - **What it is:** Self-hosted document management system for scanned documents
-- **Status:** Seeking active maintainers (I'm transitioning to SaaS)
 - **Repository:** [papermerge-core](https://github.com/papermerge/papermerge-core)
 - **Documentation:** [docs.papermerge.io](https://docs.papermerge.io)
 
