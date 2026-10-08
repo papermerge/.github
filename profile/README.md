@@ -13,7 +13,7 @@ Papermerge is available in two forms:
 - **What it is:** Managed, GoBD-compliant document management with professional support
 - **Status:** Active development & professional support
 - **Website:** [papermerge.com](https://papermerge.com)
-- **Documentation:** [docs.papermerge.com](https://docs.papermerge.com)
+- **Documentation:** [docs.papermerge.com](https://docs.papermerge.com/en/)
 - **Try it:** [Free trial](https://papermerge.com)
 
 ---
